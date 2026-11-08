@@ -1,6 +1,5 @@
 Learning Log — 5 November 2026
-
-Session 13 – Defensive Programming & API Response Validation
+Defensive Programming & API Response Validation
 
 1. Session objectives
 
